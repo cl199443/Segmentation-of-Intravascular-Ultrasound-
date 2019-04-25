@@ -7,6 +7,8 @@ About the proget, I first try to code the EREL algorithm in erel.py and then to 
 
 [1] M. Faraji, J. Shanbehzadeh, K. Nasrollahi, T. B. Moeslund, Erel: Extremal regions of extremum levels, in: Image
 Processing (ICIP), 2015 IEEE International Conference on, IEEE, 2015, pp. 681-685.
+
 [2] M. Faraji, J. Shanbehzadeh, K. Nasrollahi, T. Moeslund, Extremal regions detection guided by maxima of gradient
 magnitude, Image Processing, IEEE Transactions on.
+
 [3] Faraji, Mehdi, et al. "Segmentation of arterial walls in intravascular ultrasound cross-sectional images using extremal region selection." Ultrasonics 84 (2018): 356-365.
